@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 263"
+  short_description: "纪念图章：上半保留原照，下半收成小尺度纪念邮票式图章和版画纸感"
+  default_prompt: "Use $xxd-panel-263 to transform my photograph following the complete canonical source brief."
